@@ -8,11 +8,11 @@ public class MoveHorizontal : MonoBehaviour
     public float rotationSpeed = 90.0f;
 
     [Header("Referencias a objetos")]
-    public GameObject targetObject; // El objeto que vamos a controlar
+    public GameObject targetObject;
 
     void Start()
     {
-        // Buscar el objeto objetivo por tag (puede ser cubo o esfera)
+        // Buscar el objeto objetivo por tag
         if (targetObject == null)
             targetObject = GameObject.FindWithTag("Cubo");
     }

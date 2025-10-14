@@ -2,10 +2,10 @@ using UnityEngine;
 
 public class TriggerZoneEffect : MonoBehaviour
 {
-    public Renderer playerRenderer; // Renderer del personaje
-    public Color triggerColor = Color.red; // Color al entrar
-    public Light sceneLight; // Luz opcional
-    public Color lightColor = Color.green; // Color de la luz al entrar
+    public Renderer playerRenderer;
+    public Color triggerColor = Color.red;
+    public Light sceneLight;
+    public Color lightColor = Color.green;
 
     private Color originalColor;
     private Color originalLightColor;

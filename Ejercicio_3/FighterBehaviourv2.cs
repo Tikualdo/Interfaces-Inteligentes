@@ -24,6 +24,9 @@ public class FighterBehaviourv2 : MonoBehaviour
         {
             StopAllCoroutines();
             StartCoroutine(MoverHacia(objetivoTipo1.position));
+        } else
+        {
+            Debug.LogWarning("⚠️ No se encontró ningún objeto con la etiqueta 'Nórdico'.")
         }
     }
 
@@ -31,7 +34,6 @@ public class FighterBehaviourv2 : MonoBehaviour
     {
         if (CompareTag("Nórdico"))
         {
-            // Buscar el objeto con la etiqueta "Tipo 2"
             GameObject destinoTipo2 = GameObject.FindGameObjectWithTag("Tipo 2");
 
             if (destinoTipo2 != null)

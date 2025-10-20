@@ -2,16 +2,13 @@ using UnityEngine;
 
 public class FighterTeleport : MonoBehaviour
 {
-    [Tooltip("El objetivo al que se teletransportarán todos los Nórdicos")]
     public Transform objetivo;
 
-    // Detecta colisión física
     private void OnCollisionEnter(Collision collision)
     {
         TeletransportarNordicos();
     }
 
-    // Detecta colisión tipo trigger
     private void OnTriggerEnter(Collider other)
     {
         TeletransportarNordicos();

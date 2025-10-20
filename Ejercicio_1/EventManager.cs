@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class EventManager : MonoBehaviour
 {
-    public static Action OnCylinderTriggered; // Evento global
+    public static Action OnCylinderTriggered;
 
     public static void TriggerCylinderEvent()
     {

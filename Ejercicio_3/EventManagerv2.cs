@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class EventManagerv2 : MonoBehaviour
 {
-    public static Action OnLichTriggered; // Evento global
+    public static Action OnLichTriggered;
     public static Action OnFighterTriggered;
 
     public static void TriggerLichEvent()

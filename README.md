@@ -24,7 +24,7 @@ Para este ejercicio, realicé diferentes scripts que detallo a continuación:
 
 ---
 
-## ⚙️ Ejercicio 3 y 8
+## ⚙️ Ejercicio 3 y 9
 
 Para resolver estos ejercicios combinados, desarrollé los siguientes scripts:
 - **[EventManagerv2.cs](./Ejercicio_3/EventManagerv2.cs):** Permite al Nórdico (humanoide 1) y al Lich (humanoide 2) invocar un evento.
@@ -36,7 +36,7 @@ Para resolver estos ejercicios combinados, desarrollé los siguientes scripts:
 
 Cabe destacar que en el ejercicio había puesto físicas a los cubos, por lo que automaticamente hice el ejercicio 8.
 
-![Resultado del Ejercicio 3 y 8](./Ejercicio_3/Práctica%204%20-%20Ejercicio%203.gif)
+![Resultado del Ejercicio 3 y 9](./Ejercicio_3/Práctica%204%20-%20Ejercicio%203.gif)
 
 ---
 
@@ -53,8 +53,8 @@ Para este ejercicio, implementé los scripts que detallo a continuación:
 ## ⚙️ Ejercicio 5
 
 Para resolver este punto, me enfoqué en los siguientes scripts:
-- **[NombreDelScript1.cs](./Ejercicio_5/NombreDelScript1.cs):** [Breve descripción de la funcionalidad del script].
-- **[NombreDelScript2.cs](./Ejercicio_5/NombreDelScript2.cs):** [Breve descripción de la funcionalidad del script].
+- **[PlayerController.cs](./Ejercicio_5/PlayerController.cs):** Permite al jugador moverse, además de tener un contador para la puntuación y el método para ir acumulandola.
+- **[NombreDelScript2.cs](./Ejercicio_5/NombreDelScript2.cs):** Detecta si el objeto que colisionó con el objeto es un Nórdico y luego dependiendo de cual sea el tipo del objeto (Tipo 1 o Tipo 2) da 5 o 10 puntos al Nórdico.
 
 ![Resultado del Ejercicio 5](./Ejercicio_5/Práctica%204%20-%20Ejercicio%205.gif)
 
@@ -63,8 +63,8 @@ Para resolver este punto, me enfoqué en los siguientes scripts:
 ## ⚙️ Ejercicio 6
 
 En este caso, la lógica se distribuyó en estos scripts:
-- **[NombreDelScript1.cs](./Ejercicio_6/NombreDelScript1.cs):** [Breve descripción de la funcionalidad del script].
-- **[NombreDelScript2.cs](./Ejercicio_6/NombreDelScript2.cs):** [Breve descripción de la funcionalidad del script].
+- **[PlayerController.cs](./Ejercicio_6/PlayerController.cs):** Mismo que el anterior pero con la variación de que la puntuación se muestra a traves de un mensaje con canva en la UI.
+- **[CollectibleShieldTrigger.cs](./Ejercicio_6/CollectibleShieldTrigger.cs):** Mismo que el anterior ejercicio
 
 ![Resultado del Ejercicio 6](./Ejercicio_6/Práctica%204%20-%20Ejercicio%206.gif)
 
@@ -72,10 +72,20 @@ En este caso, la lógica se distribuyó en estos scripts:
 
 ## ⚙️ Ejercicio 7
 
-Finalmente, para este ejercicio, desarrollé los siguientes componentes:
-- **[NombreDelScript1.cs](./Ejercicio_7/NombreDelScript1.cs):** [Breve descripción de la funcionalidad del script].
-- **[NombreDelScript2.cs](./Ejercicio_7/NombreDelScript2.cs):** [Breve descripción de la funcionalidad del script].
+Por otra parte, en este ejercicio implementé:
+- **[PlayerController.cs](./Ejercicio_7/PlayerController.cs):** Mismo que el anterior pero con la implementación adicional de que salga un mensaje de recompensa ganada cada 100 puntos. El mensaje dura 5 segundos en pantalla y se hace de igual forma con canva.
+- **[CollectibleShieldTrigger.cs](./Ejercicio_7/CollectibleShieldTrigger.cs):** Mismo que el anterior ejercicio.
 
 ![Resultado del Ejercicio 7](./Ejercicio_7/Práctica%204%20-%20Ejercicio%207.gif)
+
+---
+
+## ⚙️ Ejercicio 8
+
+Finalmente, para este ejercicio, añadí espadas al escenario con la misma funcionalidad anterior hecha en el ejercicio 5. Para ello se utilizó los siguientes scripts:
+- **[PlayerController.cs](./Ejercicio_8/PlayerController.cs):** Mismo que el anterior.
+- **[CollectibleShieldTrigger.cs](./Ejercicio_8/CollectibleShieldTrigger.cs):** Similar al anterior pero muestra un mensaje de que se ha recogido la espada por consola.
+
+![Resultado del Ejercicio 8](./Ejercicio_8/Práctica%204%20-%20Ejercicio%208.gif)
 
 ---

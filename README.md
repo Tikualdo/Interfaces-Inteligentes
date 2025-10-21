@@ -15,4 +15,7 @@ Contiene diferentes prácticas organizadas en ramas.
 
 - 🏃‍♂️ **[P03](https://github.com/Tikualdo/Interfaces-Inteligentes/tree/P03)**  
   Tercera práctica: Movimiento - Físicas.
+
+- 🔔 **[P04](https://github.com/Tikualdo/Interfaces-Inteligentes/tree/P04)**
+  Cuarta práctica: Delegados y eventos.
 ---

@@ -19,6 +19,6 @@ Contiene diferentes prácticas organizadas en ramas.
 - 🔔 **[P04](https://github.com/Tikualdo/Interfaces-Inteligentes/tree/P04)**  
   Cuarta práctica: Delegados y eventos.
 
-- 📱 **[P04](https://github.com/Tikualdo/Interfaces-Inteligentes/tree/P05)**  
+- 📱 **[P05](https://github.com/Tikualdo/Interfaces-Inteligentes/tree/P05)**  
   Quinta práctica: Escenas Cardboard.
 ---

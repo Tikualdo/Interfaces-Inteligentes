@@ -1,30 +1,13 @@
-# 🧠 Interfaces Inteligentes
+# 🧠 Práctica 7 - Realidad Aumentada
 
-Repositorio de la asignatura **Interfaces Inteligentes**.  
-Contiene diferentes prácticas organizadas en ramas.
+Descripción: Se ha realizado la configuración de un proyecto de Unity con el paquete Vuforia para trabajar con la realidad aumentada. Una vez realizada la configuración y verificar que todo funciona, se plantea el siguiente enunciado:
 
----
+>Para la realización de esta práctica, se pedirá mostrar el funcionamiento de una aplicación de RA en la que se agreguen dos objetivos de seguimiento a los que se les asocia un objeto 3D diferente a cada uno.
 
-## 📁 Estructura del repositorio
+![Primer modelo](./Images/Primer%20modelo.jpg)
 
-- 🎮 **[P01](https://github.com/Tikualdo/Interfaces-Inteligentes/tree/P01)**  
-  Primera práctica: Introducción a Unity.
+![Segundo modelo](./Images/Segundo%20modelo.jpg)
 
-- 💻 **[P02](https://github.com/Tikualdo/Interfaces-Inteligentes/tree/P02)**  
-  Segunda práctica: Introducción de C#: scripts de movimiento.
 
-- 🏃‍♂️ **[P03](https://github.com/Tikualdo/Interfaces-Inteligentes/tree/P03)**  
-  Tercera práctica: Movimiento - Físicas.
 
-- 🔔 **[P04](https://github.com/Tikualdo/Interfaces-Inteligentes/tree/P04)**  
-  Cuarta práctica: Delegados y eventos.
-
-- 📱 **[P05](https://github.com/Tikualdo/Interfaces-Inteligentes/tree/P05)**  
-  Quinta práctica: Escenas Cardboard.
-
-- 🧰 **[P06](https://github.com/Tikualdo/Interfaces-Inteligentes/tree/P06)**  
-  Sexta práctica: XR Interaction Toolkit.
-
-- 👓 **[P07](https://github.com/Tikualdo/Interfaces-Inteligentes/tree/P07)**  
-  Séptima práctica: Realidad Aumentada.
 ---

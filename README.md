@@ -21,4 +21,7 @@ Contiene diferentes prácticas organizadas en ramas.
 
 - 📱 **[P05](https://github.com/Tikualdo/Interfaces-Inteligentes/tree/P05)**  
   Quinta práctica: Escenas Cardboard.
+
+- 📱 **[P06](https://github.com/Tikualdo/Interfaces-Inteligentes/tree/P06)**  
+  Sexta práctica: XR Interaction Toolkit.
 ---

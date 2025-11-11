@@ -1,24 +1,12 @@
-# 🧠 Interfaces Inteligentes
+# 🧠 Práctica 6 - XR Interaction Toolkit
 
-Repositorio de la asignatura **Interfaces Inteligentes**.  
-Contiene diferentes prácticas organizadas en ramas.
+Descripción: Realizar toda la configuración del entorno de Unity con las especificaciones para usar Meta XR y las XR Interaction Toolkit. Una vez hecho esto, se pedía el siguiente ejercicio:
 
----
+> Agrega en la escena dos cubos sobre un plano, uno lejano y otro cercano. El lejano será un Ray Interactor que cambia de color al seleccionarlo. El cercano será un Direct Interactor que muestra un mensaje en consola al agarrarlo.
 
-## 📁 Estructura del repositorio
+![Ejercicio](./Ejercicio.gif)
 
-- 🎮 **[P01](https://github.com/Tikualdo/Interfaces-Inteligentes/tree/P01)**  
-  Primera práctica: Introducción a Unity.
 
-- 💻 **[P02](https://github.com/Tikualdo/Interfaces-Inteligentes/tree/P02)**  
-  Segunda práctica: Introducción de C#: scripts de movimiento.
+Han surgido diversos problemas con el simulador, pues este crasheaba según qué acciones hiciesemos cuando la ventana estuviera abierta.
 
-- 🏃‍♂️ **[P03](https://github.com/Tikualdo/Interfaces-Inteligentes/tree/P03)**  
-  Tercera práctica: Movimiento - Físicas.
-
-- 🔔 **[P04](https://github.com/Tikualdo/Interfaces-Inteligentes/tree/P04)**  
-  Cuarta práctica: Delegados y eventos.
-
-- 📱 **[P05](https://github.com/Tikualdo/Interfaces-Inteligentes/tree/P05)**  
-  Quinta práctica: Escenas Cardboard.
 ---

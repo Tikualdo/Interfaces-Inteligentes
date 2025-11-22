@@ -26,5 +26,8 @@ Contiene diferentes prácticas organizadas en ramas.
   Sexta práctica: XR Interaction Toolkit.
 
 - 👓 **[P07](https://github.com/Tikualdo/Interfaces-Inteligentes/tree/P07)**  
-  Séptima práctica: Realidad Aumentada.
+  Séptima práctica: Realidad Aumentada.  
+
+- 🎧 **[P08](https://github.com/Tikualdo/Interfaces-Inteligentes/tree/P08)**  
+  Octava práctica: Micrófono y cámara.
 ---

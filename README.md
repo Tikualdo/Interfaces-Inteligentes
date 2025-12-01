@@ -29,5 +29,8 @@ Contiene diferentes prácticas organizadas en ramas.
   Séptima práctica: Realidad Aumentada.  
 
 - 🎧 **[P08](https://github.com/Tikualdo/Interfaces-Inteligentes/tree/P08)**  
-  Octava práctica: Micrófono y cámara.
+  Octava práctica: Micrófono y cámara.  
+
+- 🧭 **[P09](https://github.com/Tikualdo/Interfaces-Inteligentes/tree/P09)**  
+  Novena práctica: Sensores.
 ---
